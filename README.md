@@ -1,6 +1,6 @@
 # 🛒 Blinkit Data Analytics Project
 
-![Dashboard Preview](screenshots/blinkit_dashboard_preview.png)
+
 
 ---
 
