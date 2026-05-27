@@ -10,7 +10,7 @@
 |---|---|
 | **Name** | Payal Jibhakate |
 | **Email** | payaljibhakate2004@gmail.com |
-| **LinkedIn** | [Connect with me](https://www.linkedin.com/in/payal-jibhakate-900694378) |
+| **LinkedIn** | [Connect with me](www.linkedin.com/in/payal-jibhakate) |
 
 ---
 
@@ -102,7 +102,7 @@ If you found this project helpful or want to collaborate:
 
 📧 **Email:** payaljibhakate2004@gmail.com
 
-🔗 **LinkedIn:** [Payal Jibhakate](https://www.linkedin.com/in/payal-jibhakate-900694378)
+🔗 **LinkedIn:** [Payal Jibhakate](www.linkedin.com/in/payal-jibhakate)
 
 ---
 
