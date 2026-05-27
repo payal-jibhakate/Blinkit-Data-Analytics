@@ -10,7 +10,7 @@
 |---|---|
 | **Name** | Payal Jibhakate |
 | **Email** | payaljibhakate2004@gmail.com |
-| **LinkedIn** | [Connect with me](www.linkedin.com/in/payal-jibhakate) |
+| **LinkedIn** | [Connect with me](https://www.linkedin.com/in/payal-jibhakate-900694378) |
 
 ---
 
@@ -100,9 +100,9 @@ Blinkit-Data-Analytics/
 
 If you found this project helpful or want to collaborate:
 
-📧 **Email:** payaljibhakate2004@gmail.com
-
-🔗 **LinkedIn:** [Payal Jibhakate](www.linkedin.com/in/payal-jibhakate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/payal-jibhakate-900694378)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/payal-jibhakate)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:payaljibhakate2004@gmail.com)
 
 ---
 
